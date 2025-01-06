@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="Project" SchemaVersion="123" WwiseVersion="v2024.1.1" WwiseBuild="8691">
 	<ProjectInfo>
-		<Project Name="GAD_Wwise" ID="{DBB8E329-7670-4FA5-95AE-C12EFF46AF87}">
+		<Project Name="GADC_Wwise" ID="{DBB8E329-7670-4FA5-95AE-C12EFF46AF87}">
 			<Platforms>
 				<Platform Name="Windows" ReferencePlatform="Windows" ID="{DAAD3883-6588-4035-848E-E020859EE7CA}"/>
 			</Platforms>
